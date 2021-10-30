@@ -27,14 +27,14 @@ type DataFailedInformation struct {
 
 var (
 	//userName string = "root"
-	userName string = "qkl"
+	userName string = "root"
 	//password string = "root"
-	password string = "CDfUp2vgXchOatuY"
-	//ipAddrees string = "192.168.0.132"
+	password string = "root"
+	//ipAddrees string = "192.168.0.0"
 	ipAddrees string = "10.10.10.2" //mysql数据库服务器ip
 	port      int    = 3306
 	//dbName    string = "ModelWorker"
-	dbName  string = "laomo_dev_new"
+	dbName  string = "databaseName"
 	charset string = "utf8"
 	// tableName string = "ModelWorkers"
 	// tempID int = 1
